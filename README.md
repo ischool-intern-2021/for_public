@@ -67,6 +67,7 @@ We use unity asset to make this game under the unity asset licence.
 https://unity3d.com/legal/as_terms
 
 * ライセンスはMITライセンスに準拠しています。詳細は以下で英語で示します。
+
 Copyright(c) 2020 Kougaku-Hakurankai 2020.
 Released under MIT license
 
