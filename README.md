@@ -6,7 +6,7 @@ You can play our face tracking game without installing python.
 
 # Demo(デモ動画)
 
-https://user-images.githubusercontent.com/70675089/92320727-7fcdb080-f05e-11ea-894d-3267a61a8c0c.gif
+![video](https://user-images.githubusercontent.com/70675089/92320727-7fcdb080-f05e-11ea-894d-3267a61a8c0c.gif)
 
 # How to play(ゲームの遊び方)
 
