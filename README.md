@@ -6,6 +6,8 @@ You can play our face tracking game without installing python.
 
 # Demo(デモ動画)
 
+https://user-images.githubusercontent.com/70675089/92320727-7fcdb080-f05e-11ea-894d-3267a61a8c0c.gif
+
 # How to play(ゲームの遊び方)
 
 ゲームを起動してしばらくするとスタート画面になります。キーボードのsボタンを押すとゲーム画面になります。ゲーム画面では顔を動かすことでゲーム内のキャラクターを動かすことができます。3回敵に当たるとゲームオーバー、お菓子をゲットすると体力が回復します。
