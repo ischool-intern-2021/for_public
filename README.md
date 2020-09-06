@@ -51,7 +51,7 @@ Then, install necessary libraries via pip.
 
 Execute "gif.py".
 
-# Bags(不具合など)
+# Bugs(不具合など)
 
 * 何らかの不具合が生じた場合はwindowsの更新、再起動をしてみてください
 
