@@ -36,6 +36,7 @@ Please do not unzip the folder whose absolute pathname contains Japanese charact
 We do not support environments other than windows 10.
 
 * mac linuxでの動作には、
+
 If you want to play the game on mac or linux,
 
 1,python3.7の専用仮想環境を作成(このプログラムを動作させる目的でライブラリをインストールして既存の環境と衝突した場合、一切の責任を負いかねます)
