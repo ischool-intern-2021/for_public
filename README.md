@@ -25,7 +25,7 @@ Please do not unzip the folder whose absolute pathname contains Japanese charact
 
 * indows10以前での動作保証はしていません。macやlinuxでは動作しません。
 
-We do not support the environment other than windows 10.
+We do not support environments other than windows 10.
 
 * mac linuxでの動作には、
 If you want to play the game on mac or linux,
@@ -61,6 +61,15 @@ We use unity asset to make this game under the unity asset licence.
 https://unity3d.com/legal/as_terms
 
 * ライセンスはMITライセンスに準拠しています。詳細は以下で英語で示します。
+Copyright(c) 2020 Kougaku-Hakurankai 2020.
+Released under MIT license
+
+https://opensource.org/licenses/mit-license.php
+
+- Authors:
+MIT License  Copyright (c) 2018 Ross Mauck
+
+https://opensource.org/licenses/mit-license.php
 
 * このプログラムによって生じたいかなる不利益にも責任を負いかねます。
 
