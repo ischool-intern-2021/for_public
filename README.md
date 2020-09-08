@@ -35,6 +35,10 @@ Please do not unzip the folder whose absolute pathname contains Japanese charact
 
 We do not support environments other than windows 10.
 
+* ゲームの動作はcpuとウェブカメラの性能に大きく依存します。デモ動画のようにスムーズなトラッキングができない場合もあります。
+
+Game performance strongly depends on cpu and webcamera.
+
 * mac linuxでの動作には、
 
 If you want to play the game on mac or linux,
