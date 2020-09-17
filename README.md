@@ -12,7 +12,7 @@ You can play our face tracking game without installing python.
 
 ゲームを起動してしばらくするとスタート画面になります。キーボードのsボタンを押すとゲーム画面になります。ゲーム画面では顔を動かすことでゲーム内のキャラクターを動かすことができます。3回敵に当たるとゲームオーバー、お菓子をゲットすると体力が回復します。
 
-After starting this game,please wait until the game screen is popped up. You can play this game by pushing keyboard "s". The main character is tracking your face in game screen. If you hit enemies for three times, game will be over. If you can get sweets, you can recover HP. 
+After starting this game,please wait until the game screen is popped up. You can play this game by pushing keyboard "s". The main character is tracking your face in game screen. If you hit enemies for three times, game will be over. If you can get sweets, you recover HP. 
 
 # Requirement(システム要件)
 
