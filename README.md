@@ -25,6 +25,23 @@ After starting this game,please wait until the game screen is popped up. You can
 
 Please use windows10 with webcamera. Download all the files, unzip game_folder.zip, double click "install.cmd" and finally, double click "game.cmd".
 
+* 詳細な説明
+
+まずパソコンにウェブカメラが認識されていることを確認。その後下の画像を参考にzipをダウンロード
+![1](https://user-images.githubusercontent.com/70675089/93488607-83f0ac80-f941-11ea-9c06-f7c0d50edca2.PNG)
+
+次に下の画像を参考に展開
+![2](https://user-images.githubusercontent.com/70675089/93488609-84894300-f941-11ea-93e0-6010bf869c83.PNG)
+
+下記フォルダを展開
+![3](https://user-images.githubusercontent.com/70675089/93488611-84894300-f941-11ea-93e2-df6715c542c1.PNG)
+
+インストール
+![4](https://user-images.githubusercontent.com/70675089/93488614-8521d980-f941-11ea-8729-99e83e5b2bdd.PNG)
+
+ゲーム開始
+![5](https://user-images.githubusercontent.com/70675089/93488601-83581600-f941-11ea-9fda-f3f1260c46ba.PNG)
+
 # Attention(注意点)
 
 * Zipの展開するディレクトリの絶対パスに日本語が入っているとバグが生じます。よってドライブ直下に専用のフォルダを作ってそこで展開することをお勧めします。
