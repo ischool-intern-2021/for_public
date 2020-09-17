@@ -31,7 +31,7 @@ Please use windows10 with webcamera. Download the zip folder, unzip it and doubl
 
 Please do not unzip the folder whose absolute pathname contains Japanese character. 
 
-* indows10以前での動作保証はしていません。macやlinuxでは動作しません。
+* Windows10以前での動作保証はしていません。macやlinuxでは動作しません。
 
 We do not support environments other than windows 10.
 
