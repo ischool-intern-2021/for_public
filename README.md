@@ -21,9 +21,9 @@ After starting this game,please wait until the game screen is popped up. You can
 
 # Usage(使い方)
 
-Zipをダウンロードし、展開。パソコンにウェブカメラが認識されていることを確認してからgame.cmdをダブルクリック。
+すべてのファイルをダウンロードし、パソコンにウェブカメラが認識されていることを確認。その後game_folder.zipを展開し、install.cmdをダブルクリック。これで準備が完了するのでその後game.cmdをダブルクリック。
 
-Please use windows10 with webcamera. Download the zip folder, unzip it and double click "game.cmd" in it.
+Please use windows10 with webcamera. Download all the files, unzip game_folder.zip, double click "install.cmd" and finally, double click "game.cmd".
 
 # Attention(注意点)
 
