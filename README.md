@@ -113,15 +113,22 @@ https://opensource.org/licenses/mit-license.php
 
 https://github.com/mauckc/mouth-open
 
-* このプログラムによって生じたいかなる不利益にも責任を負いかねます。
+* dlibを利用しています。ライセンスは以下になります。
 
-We assume no responsibility whatsoever for any direct or indirect damage, loss, or emotional distress caused by this game.
+licenseof dlib:
 
-* このプログラムにおいては商用利用に制限のある学習済みモデルを利用しています。詳細は以下のリンクを参照してください。
+http://dlib.net/license.html
+
+* このプログラムにおいてはdlibの商用利用に制限のある学習済みモデルを利用しています。詳細は以下のリンクを参照してください。
 
 Do not use this game for commercial use. For more information,
 
 http://dlib.net/face_landmark_detection.py.html
+
+
+* このプログラムによって生じたいかなる不利益にも責任を負いかねます。
+
+We assume no responsibility whatsoever for any direct or indirect damage, loss, or emotional distress caused by this game.
 
 * このプログラムおよびアプリは工学博覧会開催の趣旨に準拠し,個人利用を目的に作成しています。
 
