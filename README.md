@@ -106,7 +106,7 @@ Released under MIT license
 
 https://opensource.org/licenses/mit-license.php
 
-- Authors:
+Authors:
 MIT License  Copyright (c) 2018 Ross Mauck
 
 https://opensource.org/licenses/mit-license.php
@@ -115,10 +115,12 @@ https://opensource.org/licenses/mit-license.php
 
 We assume no responsibility whatsoever for any direct or indirect damage, loss, or emotional distress caused by this game.
 
-* このプログラムおよびアプリは工学博覧会開催の趣旨に準拠して作成しています。
+* このプログラムにおいては商用利用に制限のある学習済みモデルを利用しています。詳細は以下のリンクを参照してください。
 
-We made this game for Kougaku-Hakurankai 2020.
+Do not use this game for commercial use. For more information,
 
+http://dlib.net/face_landmark_detection.py.html
 
+* このプログラムおよびアプリは工学博覧会開催の趣旨に準拠し,個人利用を目的に作成しています。
 
-
+We made this game for Kougaku-Hakurankai 2020(online). It is for personal use, not for commercial use.
