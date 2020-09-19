@@ -95,7 +95,7 @@ Please do not unzip the folder whose absolute pathname contains Japanese charact
 
 * Unityアセットストアの素材を購入、利用しています。unityライセンスに準拠して作成しています。
 
-We use unity asset to make this game under the unity asset licence.
+We use unity asset to make this game under unity asset licence.
 
 https://unity3d.com/legal/as_terms
 
@@ -110,6 +110,8 @@ Authors:
 MIT License  Copyright (c) 2018 Ross Mauck
 
 https://opensource.org/licenses/mit-license.php
+
+https://github.com/mauckc/mouth-open
 
 * このプログラムによって生じたいかなる不利益にも責任を負いかねます。
 
