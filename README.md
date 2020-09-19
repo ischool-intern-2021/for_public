@@ -115,7 +115,7 @@ https://github.com/mauckc/mouth-open
 
 * dlibを利用しています。ライセンスは以下になります。
 
-licenseof dlib:
+license of dlib C++ library:
 
 http://dlib.net/license.html
 
